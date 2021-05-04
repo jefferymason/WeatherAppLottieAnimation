@@ -29,11 +29,11 @@
         case "13d" :
             return "daySnow"
         case "13n" :
-            return "nightStone"
+            return "nightSnow"
         case "50d" :
             return "dayMist"
         case "50n" :
-            return "dayMist"
+            return "nightMist"
         default:
             return "dayClearSky"
         }
